@@ -12,7 +12,7 @@
 ## Projects
 ### Decision Trees
 [Publication]()
-<p><a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/github-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
 Data Scientics
 
 
