@@ -1,4 +1,4 @@
-# Portfolio
+# Data Scientist
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
@@ -12,7 +12,7 @@
 ## Projects
 ### Decision Trees
 [Publication]()
-
+<p><a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a></p>
 Data Scientics
 
 
