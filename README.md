@@ -1,4 +1,5 @@
 # Portfolio
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
 - M.S., Information Systems | Northeastern Universiry (_Dec 2025_)
