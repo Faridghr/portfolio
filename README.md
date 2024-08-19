@@ -1,11 +1,17 @@
-# portfolio
+# Portfolio
 
+## Education
+- M.S., Information Systems | Northeastern Universiry (_Dec 2025_)
+- B.S., Software Engineering | Azad University of Tehran (_May 2021_)
 
-### Education
+## Work Experience
+**Data Scientics @ Behsakht Inc (_June 2022 - Present_)**
+- datascience
+
+## Projects
+### Decision Trees
+[Publication]()
+
 Data Scientics
 
-### Work Experience
-Data Scientics
 
-### Projects
-Data Scientics
