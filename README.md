@@ -1,5 +1,21 @@
 # Data Scientist
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 ## Education
 - M.S., Information Systems | Northeastern Universiry (_Dec 2025_)
@@ -28,9 +44,9 @@ This project aims to predict wireless account churn and identify key features dr
 In this project, we aim to develop a domain-specific chatbot application that utilizes a Large Language Model (LLM) for natural language understanding and processing, combined with the efficiency and scalability of a vector database for data storage and retrieval. The application will implement the Advanced Retrieval-Augmented Generation (RAG) method to enhance the chatbot's ability to provide accurate and relevant responses by integrating retrieved information with generative AI capabilities. We also fine-tune GPT-4o-mini in this project with related data to achieve optimal performance.
 <p><a href="https://github.com/Faridghr/AutoBuddy-Car-Shopping-Chatbot" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
 
-### Data Mining HorseColic
-Using data mining techniques, including data preprocessing, feature selection, model training, and evaluation, the project seeks to uncover patterns and relationships within the dataset to improve prediction accuracy.
-<p><a href="https://github.com/Faridghr/horse-survival-data-mining" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
+### ProductScraper
+This project scrapes product information from the Digikala e-commerce website to extract details about available laptops, such as price, model, CPU, GPU, RAM, screen size, etc. The extracted data is stored in a MySQL database using the mysql library. Additionally, the project includes a simple machine learning model built with scikit-learn for predicting laptop prices based on user input configurations.
+<p><a href="https://github.com/Faridghr/ProductScraper" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
 
 ### Data Mining HorseColic
 Using data mining techniques, including data preprocessing, feature selection, model training, and evaluation, the project seeks to uncover patterns and relationships within the dataset to improve prediction accuracy.
@@ -43,26 +59,26 @@ This project is a practical exploration of design patterns, applied to a restaur
 ## Licenses & certifications
 ### Microsoft SQL Server 2022 Essential Training 
 #### LinkedIn - Issued Apr 2024
-<p><a href="https://www.linkedin.com/learning/certificates/7de1e9db66742cb7fd279fd72ba96b32e3a7158788ef834a2e5522a390a49efe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0468ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://www.linkedin.com/learning/certificates/7de1e9db66742cb7fd279fd72ba96b32e3a7158788ef834a2e5522a390a49efe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9999ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Oracle Database 12c: Advanced SQLOracle 
 #### LinkedIn - Issued Feb 2024
-<p><a href="https://www.linkedin.com/learning/certificates/ad55e62ce4534035c88e2f5c06b33217dbd43b7bf288f1c5d34e2e958351a59f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0468ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://www.linkedin.com/learning/certificates/ad55e62ce4534035c88e2f5c06b33217dbd43b7bf288f1c5d34e2e958351a59f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9999ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Supervised Machine Learning
 #### Coursera - Issued Dec 2022
-<p><a href="https://coursera.org/verify/LQWUU2RS42F9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0468ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://coursera.org/verify/LQWUU2RS42F9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9999ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Web Development and Design
 #### Maktabkhooneh - Issued Oct 2020
-<p><a href="https://maktabkhooneh.org/certificates/MK-CY83QT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0468ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://maktabkhooneh.org/certificates/MK-CY83QT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9999ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Advanced Python Programming 
 #### Maktabkhooneh - Issued Aug 2020
-<p><a href="https://maktabkhooneh.org/certificates/MK-URWTRV/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0468ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://maktabkhooneh.org/certificates/MK-URWTRV/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9999ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Web Scraping with Python
 #### Maktabkhooneh - Issued Apr 2020
-<p><a href="https://maktabkhooneh.org/certificates/MK-YRS8PG/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0468ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://maktabkhooneh.org/certificates/MK-YRS8PG/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9999ff.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
 
