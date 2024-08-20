@@ -57,8 +57,8 @@ This project is a practical exploration of design patterns, applied to a restaur
 <p><a href="https://github.com/Faridghr/DesignPatterns-RestaurantOrdering" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
 
 ## Licenses & certifications
-### Microsoft SQL Server 2022 Essential Training 
-#### LinkedIn - Issued Apr 2024
+**Microsoft SQL Server 2022 Essential Training**
+**LinkedIn - Issued Apr 2024**
 <p><a href="https://www.linkedin.com/learning/certificates/7de1e9db66742cb7fd279fd72ba96b32e3a7158788ef834a2e5522a390a49efe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-4A4A4A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Oracle Database 12c: Advanced SQLOracle 
