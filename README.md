@@ -59,23 +59,23 @@ This project is a practical exploration of design patterns, applied to a restaur
 ## Licenses & certifications
 ### Microsoft SQL Server 2022 Essential Training 
 #### LinkedIn - Issued Apr 2024
-<p><a href="https://www.linkedin.com/learning/certificates/7de1e9db66742cb7fd279fd72ba96b32e3a7158788ef834a2e5522a390a49efe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://www.linkedin.com/learning/certificates/7de1e9db66742cb7fd279fd72ba96b32e3a7158788ef834a2e5522a390a49efe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Oracle Database 12c: Advanced SQLOracle 
 #### LinkedIn - Issued Feb 2024
-<p><a href="https://www.linkedin.com/learning/certificates/ad55e62ce4534035c88e2f5c06b33217dbd43b7bf288f1c5d34e2e958351a59f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://www.linkedin.com/learning/certificates/ad55e62ce4534035c88e2f5c06b33217dbd43b7bf288f1c5d34e2e958351a59f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Supervised Machine Learning
 #### Coursera - Issued Dec 2022
-<p><a href="https://coursera.org/verify/LQWUU2RS42F9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://coursera.org/verify/LQWUU2RS42F9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Web Development and Design
 #### Maktabkhooneh - Issued Oct 2020
-<p><a href="https://maktabkhooneh.org/certificates/MK-CY83QT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://maktabkhooneh.org/certificates/MK-CY83QT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Advanced Python Programming 
 #### Maktabkhooneh - Issued Aug 2020
-<p><a href="https://maktabkhooneh.org/certificates/MK-URWTRV/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://maktabkhooneh.org/certificates/MK-URWTRV/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-0A0A0A.svg?&logo=&logoColor=white"  height="30px"/></a></p>
 
 ### Web Scraping with Python
 #### Maktabkhooneh - Issued Apr 2020
