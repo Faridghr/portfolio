@@ -22,7 +22,7 @@
 - B.S., Software Engineering | Azad University of Tehran (_May 2021_)
 
 ## Work Experience
-**Data Scientics @ Behsakht Civilized & Development Group (_June 2022 - Present_)**
+**Data Scientist @ Behsakht Civilized & Development Group (_June 2022 - Present_)**
 - Developed and implemented Python-based forecasting models that optimized production schedules and shipment plans 
 - Analyzed sales data to accurately predict demand, reducing instances of emergency orders and ensuring timely deliveries
 - Created and maintained Tableau dashboards for data visualization and reporting purposes
