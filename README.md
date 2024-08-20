@@ -57,28 +57,22 @@ This project is a practical exploration of design patterns, applied to a restaur
 <p><a href="https://github.com/Faridghr/DesignPatterns-RestaurantOrdering" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
 
 ## Licenses & certifications
-### **Microsoft SQL Server 2022 Essential Training**
-**LinkedIn - Issued Apr 2024**
-<p><a href="https://www.linkedin.com/learning/certificates/7de1e9db66742cb7fd279fd72ba96b32e3a7158788ef834a2e5522a390a49efe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-4A4A4A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+**Microsoft SQL Server 2022 Essential Training** | LinkedIn - (_Issued Apr 2024_)
+<p><a href="https://www.linkedin.com/learning/certificates/7de1e9db66742cb7fd279fd72ba96b32e3a7158788ef834a2e5522a390a49efe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9a9a9a.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
-### Oracle Database 12c: Advanced SQLOracle 
-**LinkedIn - Issued Feb 2024**
-<p><a href="https://www.linkedin.com/learning/certificates/ad55e62ce4534035c88e2f5c06b33217dbd43b7bf288f1c5d34e2e958351a59f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-4A4A4A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+**Oracle Database 12c: Advanced SQLOracle** | LinkedIn - (_Issued Feb 2024_)
+<p><a href="https://www.linkedin.com/learning/certificates/ad55e62ce4534035c88e2f5c06b33217dbd43b7bf288f1c5d34e2e958351a59f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9a9a9a.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
-### Supervised Machine Learning
-**Coursera - Issued Dec 2022**
-<p><a href="https://coursera.org/verify/LQWUU2RS42F9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-4A4A4A.svg?&logo=&style=for-the-badge&logoColor=white"  height="30px"/></a></p>
+**Supervised Machine Learning** | Coursera - (_Issued Dec 2022_)
+<p><a href="https://coursera.org/verify/LQWUU2RS42F9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9a9a9a.svg?&logo=&style=for-the-badge&logoColor=white"  height="30px"/></a></p>
 
-### Web Development and Design
-**Maktabkhooneh - Issued Oct 2020**
-<p><a href="https://maktabkhooneh.org/certificates/MK-CY83QT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-4A4A4A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+**Web Development and Design** | Maktabkhooneh - (_Issued Oct 2020_)
+<p><a href="https://maktabkhooneh.org/certificates/MK-CY83QT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9a9a9a.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
-### Advanced Python Programming 
-**Maktabkhooneh - Issued Aug 2020**
-<p><a href="https://maktabkhooneh.org/certificates/MK-URWTRV/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-4A4A4A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+**Advanced Python Programming** | Maktabkhooneh - (_Issued Aug 2020_)
+<p><a href="https://maktabkhooneh.org/certificates/MK-URWTRV/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9a9a9a.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
-### Web Scraping with Python
-**Maktabkhooneh - Issued Apr 2020**
-<p><a href="https://maktabkhooneh.org/certificates/MK-YRS8PG/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-4A4A4A.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+**Web Scraping with Python** | Maktabkhooneh - (_Issued Apr 2020_)
+<p><a href="https://maktabkhooneh.org/certificates/MK-YRS8PG/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Show%20credential-9a9a9a.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
 
