@@ -43,7 +43,7 @@ This project aims to predict wireless account churn and identify key features dr
 
 ### Sales Performance
 Two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
-<p><a href="https://github.com/Faridghr/Sales-Performance" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
+<p><a href="https://github.com/Faridghr/Sales-Performance" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p> 
 <p><a href="https://public.tableau.com/views/SalesPerformance_17249616306820/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"  height="30px"/></a></p>
 
 ### AutoBuddy
@@ -63,6 +63,9 @@ This project is a practical exploration of design patterns, applied to a restaur
 <p><a href="https://github.com/Faridghr/DesignPatterns-RestaurantOrdering" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/link-0A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/></a></p>
 
 ## Licenses & certifications
+**Google Analytics Certification** | Skillshop - (_Issued Aug 2024_)
+<p><a href="https://skillshop.credential.net/b58208ba-a34b-4a91-81c9-50e37c709cf0" target="_blank"><img alt="" src="https://img.shields.io/badge/Show%20credential-9a9a9a.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
+
 **Microsoft SQL Server 2022 Essential Training** | LinkedIn - (_Issued Apr 2024_)
 <p><a href="https://www.linkedin.com/learning/certificates/7de1e9db66742cb7fd279fd72ba96b32e3a7158788ef834a2e5522a390a49efe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B47KA4eumQfGBI9E4Y5%2FOAA%3D%3D" target="_blank"><img alt="" src="https://img.shields.io/badge/Show%20credential-9a9a9a.svg?&style=for-the-badge&logo=&logoColor=white"  height="30px"/></a></p>
 
