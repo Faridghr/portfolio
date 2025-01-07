@@ -19,7 +19,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)
 
 ## Education
-- M.S., Information Systems | Northeastern Universiry (_Dec 2025_)
+- M.S., Information Systems | Northeastern Universiry (_Dec 2024_)
 - B.S., Software Engineering | Azad University of Tehran (_May 2021_)
 
 ## Work Experience
