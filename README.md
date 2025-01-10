@@ -20,7 +20,7 @@
 
 ## Education
 - M.S., Information Systems | Northeastern Universiry (_Dec 2024_)
-- B.S., Software Engineering | Azad University of Tehran (_May 2021_)
+- B.S., Software Engineering | University of Tehran (_May 2021_)
 
 ## Work Experience
 **Data Scientist @ Behsakht Civilized & Development Group (_June 2021 - Present_)**
